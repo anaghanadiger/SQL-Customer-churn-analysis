@@ -36,9 +36,20 @@ Telco Customer Churn dataset (CSV format).
 ## Conclusion
 This project demonstrates the use of SQL to analyze customer churn, generate actionable business insights, and identify customer segments that require targeted retention strategies.
 
+## Screenshots
+
+## Churn Percentage
 ![Churn_percentage](https://github.com/user-attachments/assets/74bee173-2a07-4507-9a0d-2867ca60b534)
+
+## Churn based on contract type
 ![Contract_type](https://github.com/user-attachments/assets/8902fdd8-d690-461f-954f-4056e2af20cd)
+
+## Churn based on payment method
 ![Payment_method](https://github.com/user-attachments/assets/4c9df959-b458-4eab-af34-c74eb9a40b14)
+
+## Churn based on tenure
 ![Tenure](https://github.com/user-attachments/assets/5afdcfec-a3c7-4d6b-b6c2-3e9172538c57)
+
+## Joins
 ![Joins](https://github.com/user-attachments/assets/28cfb1f1-5945-40ac-8ef7-ee8c648b5c6f)
 
